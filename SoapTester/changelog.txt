@@ -1,0 +1,7 @@
+1.0.0.0
+- Initial version
+
+1.0.1.0
+- Added response displaying include error message.
+- Added response formatting.
+- Added version displaying.
